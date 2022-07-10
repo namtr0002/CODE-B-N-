@@ -1,0 +1,11 @@
+Hướng dẫn sử dụng
+--Đầu tiên là lấy code đồ ở sell1.txt(nhớ copy đúng)--
+--Vd:code1:...(1món đồ) thay id đồ muốn buff vào sau "index","id":...
+...:nhập id vào đó--
+Sửa hệ (hoả:1,thuỷ:2,phong:3) "sys":
+Vd:"sys":1(hệ hoả)
+--muốn tăng cấp độ hoặc giảm cấp độ chỉnh dòng "Upgrade"--
+--Xong copy chỉ số ở optionitem.txt
+Vd hoả thì copy sau "Hoả(sys:1):"
+Xong dán vào sau "option":[]
+Dán vào trong dấu "[]"
