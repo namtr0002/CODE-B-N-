@@ -1,0 +1,10 @@
+Hoả(sys:1)
+{"param":10000,"id":6},{"param":10000,"id":7},{"param":1000,"id":2},{"param":100,"id":68},{"param":80,"id":60},{"param":80,"id":61},{"param":5000,"id":38},{"param":5000,"id":39},{"param":5,"id":40}
+Thuỷ(sys:2)
+{"param":10000,"id":6},{"param":10000,"id":7},{"param":1000,"id":3},{"param":100,"id":68},{"param":80,"id":60},{"param":80,"id":61},{"param":5000,"id":38},{"param":5000,"id":39},{"param":5,"id":41}
+Phong(sys:3)
+{"param":10000,"id":6},{"param":10000,"id":7},{"param":1000,"id":4},{"param":100,"id":68},{"param":80,"id":60},{"param":80,"id":61},{"param":5000,"id":38},{"param":5000,"id":39},{"param":5,"id":42}
+Tinh luyện 6(id:85)
+{"param":10000,"id":87},{"param":20000,"id":82},{"param":20000,"id":83},{"param":20000,"id":99}
+Tinh luyện 9(id:85)
+{"param":20000,"id":87},{"param":30000,"id":82},{"param":30000,"id":83},{"param":20000,"id":99}
